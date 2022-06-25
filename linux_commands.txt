@@ -1,7 +1,0 @@
-Linux Commands:-
-
-1. pwd - Print working directory -as it will show which directory currently you are working with.
-2. whoami - it will show the user of the system  (or) it will print the currnet loggedin user's username.
-3. cd, cd .., cd directory - change directory - it will move to other directory
-4. ls - it will list all your files inside directory
-5. mkdir - make directory - it will create new folder.

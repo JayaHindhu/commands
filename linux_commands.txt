@@ -1,7 +1,52 @@
 Linux Commands:-
 
-1. pwd - Print working directory -as it will show which directory currently you are working with.
-2. whoami - it will show the user of the system  (or) it will print the currnet loggedin user's username.
-3. cd, cd .., cd directory - change directory - it will move to other directory
-4. ls - it will list all your files inside directory
-5. mkdir - make directory - it will create new folder.
+Command                Syntax                          Usage
+
+1)pwd                pwd                      Print the working directory.
+
+2)whoami             whoami                   Print the username logged in user.
+
+3)mkdir              mkdir dir_name           Create a directory with the name 'dir_name'
+
+4)cd                 cd path_to_directory     Change current working directory.
+
+5)cd ..              cd ..                    Change to parent directory of the working
+                                              directory.
+
+6)cd .               cd .                     Represent to current directory.
+
+7)ls                 ls                       List the files and directories inside the 
+                                              current working directory.
+
+8)rmdir              rmdir dir_name           It will remove only empty directory.
+
+9)touch              touch filename           It will create a file with a name specified.
+
+10)rm                rm filename              It will remove the file specified.
+
+11)rm                rm -R dir_name           Remove the specified directory.
+
+12)cp                cp path1/file1 path2     Copy file from path1 to path2.
+
+13)mv                mv path1/file1 path2     Move file1 from path1 to path2 and also 
+                                              renames a file.
+
+14)cat               cat filename             Show the content of the specified file on 
+                                              the console.
+
+15)cat               cat > filename           This will open the file in writing mode & it 
+                                              will overwrite the existing content.
+
+16)cat               cat >> filename          This will append the new content with the 
+                                              existing content.
+
+17)nano              nano filename            This opens the file for writing.
+                                              ctrl+o - save out the file & prompt for 
+                                                       filename,press enter.
+                                              ctrl+x - to exit from nano editor.
+
+18)vi                vi filename              This opens the file for writing.
+                                              Press 'i' for insert mode.
+                                              Write the contents.
+                                              Press esc to comee out of insert mode.
+                                              Press :wq to save & quit.

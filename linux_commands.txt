@@ -46,7 +46,7 @@ Command                Syntax                          Usage
                                               ctrl+x - to exit from nano editor.
 
 18)vi                vi filename              This opens the file for writing.
-                                              Press 'i' for insert mode.
-                                              Write the contents.
-                                              Press esc to comee out of insert mode.
+                                              Press 'i' for insert mode
+                                              Write the contents
+                                              Press esc to comee out of insert mode
                                               Press :wq to save & quit.

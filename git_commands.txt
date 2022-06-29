@@ -23,4 +23,3 @@ Git commands:-
 16.git reset
 17.git checkout filename
 18.git config --global user.emial "youremail"
-19.git reset *
